@@ -1,0 +1,333 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+@media screen and (min-width: 725px) {
+
+	body{
+		background-color: #F8F9FA;
+		z-index: -1;
+	}
+
+	header{
+		display: flex;
+		position: sticky;
+		top: -20px;
+		z-index: 2;
+		box-sizing: content-box;
+		width: auto;
+		background-color: #F8F9FA;
+		border-bottom: 5px solid #403449;
+	}
+
+	#div-logo{
+		z-index: 2;
+	}
+
+	#logo{
+		padding-left: 5px;
+		padding-top: 15px;
+		width: 120px;
+		height: 120px;
+		z-index: 2;
+	}
+
+/* Barre de boutons */
+
+	#barre{
+		display: inline;
+		padding-top: 15px;
+		padding-left: 2%;
+		flex-direction: row;
+		flex:auto;
+		z-index: 2;
+	}
+
+	.bouton-barre{
+		width: 16.5%;
+		height: 80px;
+		white-space: nowrap;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+
+	
+	.img-barre{
+		width: 30px;
+		height: 30px;
+	}
+
+
+/* Barre de recherche */
+
+
+	#search{
+		margin-top: 40px;
+		padding-right: 3%;
+		width: 120%;
+	}
+
+	#form-search{
+		display: inline-block;
+		z-index: 2;
+		height: 10px;
+		width: 20%;
+		white-space: nowrap;
+
+	}
+
+	#btn-search{
+		/*background-color: none;*/
+		border: 1px solid #767676;
+		border-radius: 0px 2px 2px 0px;
+		padding-top:2px;
+		padding-left: 1px;
+		width: 30px;
+		height: 30px;
+		padding-right: 3%;
+		background-color: white;
+		position: relative;
+		right: 6px;
+
+	}
+
+	#img-search{
+		position: relative;
+		top:-1px;
+		width: 26px;
+		height: 26px;
+
+	}
+
+
+/* décalage corps */
+
+	header + div {
+		position: relative;
+		top: 10px;
+	}
+
+
+	footer{
+		background-color: #403449;
+		border-top: 5px solid #6c757d;
+		color: white;
+		padding: 10px 10%;
+	}
+
+	footer a:link,footer a:visited,footer a:hover,footer a:active {
+		color: white;
+		text-decoration: none;
+	}
+
+
+/* Corps */
+	
+	#corps{
+		padding-left: 10%;
+		padding-right: 10%;
+	}
+
+	#accueil{
+		font-size: 2em;
+		color:#9454c5;
+
+	}
+
+	#promo{
+		font-size: 1.5em;
+	}
+
+	#promo a:link,#promo a:visited,#promo a:hover,#promo a:active {
+		color: black;
+		text-decoration: none;
+	}
+
+	#produit{
+		display: flex;
+		justify-content: space-around;
+		padding-bottom: 20px;
+	}
+
+	#titre-produit{
+		padding-top: 10px;
+		font-size: 1.5em;
+		border-top: 2px solid #aaa;
+
+	}
+
+	.card-title{
+		padding-top: 15px;
+		font: 125% bold;
+	}
+
+	.card-text{
+		min-height: 120px;
+		font-size: 10pt;
+	}
+
+	.card-img-top{
+		padding: 10px;
+
+	}
+
+	#plus a:link,#plus a:visited,#plus a:hover,#plus a:active {
+		color: black;
+		text-decoration: none;
+	}
+
+}
+
+@media screen and (max-width: 724px) {
+
+	body{
+		background-color: #F8F9FA;
+	}
+
+	header{
+		display: flex;
+		position: sticky;
+		top: -100px;
+		background-color: #F8F9FA;
+		border-bottom: 5px solid #6c757d;
+		padding-bottom: 35px;
+		z-index: 2;
+
+	}
+
+	#logo{
+		padding-left: 10px;
+		padding-top: 10px;
+		width: 80px;
+		height: 80px;
+	}
+
+/* Barre de boutons */
+
+	#barre{
+		display: inline;
+		padding-top: 15px;
+		padding-left: 2%;
+		flex-direction: row;
+		flex:auto;
+		z-index: 2;
+	}
+
+	.bouton-barre{
+		width: 23%;
+		height: 80px;
+		padding-left: 0px;
+		padding-right: 0px;
+		white-space: nowrap;
+	}
+
+	
+	.img-barre{
+		width: 30px;
+		height: 30px;
+	}
+
+
+/* Barre de recherche */
+
+
+	#search{
+		margin-top: 10px;
+		padding-right: 5px;
+		width: 120%;
+		height: 30px;
+	}
+
+	#form-search{
+		display: flex;
+		z-index: 2;
+		height: 10px;
+		width: auto;
+		max-width: 715px;
+		margin-right: 10px;
+		white-space: nowrap;
+		/*position: relative;
+		left: -80px;*/
+
+	}
+
+	#btn-search{
+		/*background-color: none;*/
+		border: 1px solid #767676;
+		border-radius: 0px 2px 2px 0px;
+		padding-top:2px;
+		padding-left: 1px;
+		width: 30px;
+		height: 30px;
+		padding-right: 3%;
+		background-color: white;
+		position: relative;
+		top:10px;
+		right: 2px;
+
+
+	}
+
+	#img-search{
+		position: relative;
+		top:-1px;
+		width: 26px;
+		height: 26px;
+
+	}
+
+
+	footer{
+		background-color: #403449;
+		border-top: 5px solid #6c757d;
+		color: white;
+		padding: 10px 10%;
+	}
+
+	footer a:link,footer a:visited,footer a:hover,footer a:active {
+		color: white;
+		text-decoration: none;
+	}
+
+	#corps{
+		padding-left: 10%;
+		padding-right: 10%;
+	}
+
+	#accueil{
+		font-size: 2em;
+		color:#9454c5;
+		text-align: center;
+
+	}
+
+	#promo a:link,#promo a:visited,#promo a:hover,#promo a:active {
+		color: black;
+		text-decoration: underline;
+	}
+
+	#promo{
+		text-align: center;
+	}
+
+	.produit{
+		justify-content: center;
+		text-align: center;	
+	}
+
+	.card{
+		text-align: center;
+		margin-bottom: 20px;
+		margin: 0 auto;
+		float: none;
+		margin-bottom: 10px;
+	}
+
+	.card-title{
+		font-weight: bold;
+	}
+
+	.card-img-top{
+		padding: 10px;
+	}
+}

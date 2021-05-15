@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="../asset/css/pages-produits/style-produit-normal.css">
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald&display=swap" rel="stylesheet">
+		<title> Projet </title>
+	</head>
+	<body>
+		<header>
+			<div id="div-logo">
+				<a href="../index.html"><img alt="" src="../asset/icons/dessin.svg" id="logo"/></a>
+			</div>
+			<div id="barre">
+				<button type="button" class="btn btn-dark bouton-barre" onclick="location.href = '../produit.html';">
+					<img alt="" src="../asset/icons/speaker.svg" class="img-barre"/><br>
+					Produits
+				</button>
+				<button type="button" class="btn btn-dark bouton-barre" id="bon-plan" onclick="location.href = '../bon-plan.html';">
+					<img alt="" src="../asset/icons/discount.svg" class="img-barre"/><br>
+					Bons plans</button>
+				<button type="button" class="btn btn-dark bouton-barre" onclick="location.href = '../panier.html';">
+					<img alt="" src="../asset/icons/panier.svg" class="img-barre"/><br>
+					Panier
+				</button>
+				<button type="button" class="btn btn-dark bouton-barre" onclick="location.href = '../a-propos.html';">
+					<img alt="" src="../asset/icons/question.svg" class="img-barre"/><br>
+					A propos
+				</button>
+				<form id="form-search" action="../search.html" method="POST">
+					<input type="text" name="search" id="search" placeholder="Cherchez un produit">
+					<button type="submit" id="btn-search"><img alt="" src="../asset/icons/loupe.svg" id="img-search"/></button>
+				</form>
+			</div>
+		</header>
+		<div id="corps">
+
+			<div id="cadre-produit">
+				<h5 class="card-title">Galaxy Buds +</h5>
+				<p id="prix">169€</p>
+				<img src="../asset/img-produits/casques-bluetooth/microsoft-surface-headphones-2.png" class="card-img-top" alt="Galaxy Buds +">
+				<p class="card-text">Laissez vos sons favoris vos guider grâce aux Galaxy Buds+, des écouteurs pensés pour vous suivre en toute discrétion. La première particularité de ces écouteurs réside dans le fait qu'ils sont sans fil. Vous n'aurez ainsi plus à vous battre contre les câbles emmêlés ou coupés.<br><br>La force des Galaxy Buds+, c'est sa connexion Bluetooth, qui vous permet de vous éloigner de votre appareil sans nuire à votre écoute. En mode téléphone, vous bénéficierez d'appels en stéréo et pourrez parler naturellement grâce à ses 2 microphones extérieurs et son micro intra auriculaire.
+				</p>
+				<form action="../panier.html">
+					<input type="number" id="nbr-article" name="nbr-article" min="1" max="100" step="1" value="1">
+					<input type="submit"  name="ok" class="btn btn-primary" value="Ajouter au panier">
+				</form>
+			</div>
+
+			<div id="cadre-commentaires">
+				<p>Vous l'avez deja acheté ? Votre avis nous intéresse !</p>
+				<form>
+					<div id="rating"> <!-- touvé sur le site : https://www.creativejuiz.fr/blog/tutoriels/systeme-notation-quelques-lignes-css#:~:text=Un%20bout%20de%20HTML&text=On%20commence%20par%20un%20petit,vous%20allez%20comprendre%20ensuite%20pourquoi. -->
+						<a href="#5" title="Donner 5 étoiles">★</a>
+						<a href="#4" title="Donner 4 étoiles">★</a>
+						<a href="#3" title="Donner 3 étoiles">★</a>
+						<a href="#2" title="Donner 2 étoiles">★</a>
+						<a href="#1" title="Donner 1 étoile">★</a>
+					</div>
+					<textarea name="commentaire" id="commentaire" placeholder="Ecrivez votre commentaire ici."></textarea>
+					<button type="submit" class="btn btn-primary">Publier</button>
+				</form>
+			</div>
+
+
+
+
+
+
+
+		</div>
+		<footer>
+			<div>Icons made by :<br>
+				<ul>
+					<li><a href="https://www.flaticon.com/authors/monkik" title="monkik" target="_blank">monkik</a></li>
+					<li><a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a></li>
+					<li><a href="https://www.flaticon.com/authors/becris" title="Becris">Becris</a></li>
+				</ul>
+				from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+			</div>
+
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100mm"
+   height="103.44827mm"
+   viewBox="0 0 100 103.44827"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="speaker.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1034"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g206"
+       transform="matrix(0.21551724,0,0,0.21551724,-1.7241379,0)"
+       style="fill:#ffffff">
+      <g
+         id="g14"
+         style="fill:#ffffff">
+	<g
+   id="g12"
+   style="fill:#ffffff">
+		<path
+   d="M 360,0 H 120 C 97.92,0.026 80.026,17.92 80,40 v 368 c 0.024,19.001 13.389,35.373 32,39.2 V 480 h 48 v -32 h 160 v 32 h 48 v -32.8 c 18.611,-3.827 31.976,-20.199 32,-39.2 V 40 C 399.974,17.92 382.08,0.026 360,0 Z M 144,464 h -16 v -16 h 16 z m 208,0 h -16 v -16 h 16 z m 32,-56 c 0,13.255 -10.745,24 -24,24 H 120 C 106.745,432 96,421.255 96,408 V 40 c 0,-13.255 10.745,-24 24,-24 h 240 c 13.255,0 24,10.745 24,24 z"
+   id="path10"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g20"
+         style="fill:#ffffff">
+	<g
+   id="g18"
+   style="fill:#ffffff">
+		<path
+   d="m 240,160 c -70.692,0 -128,57.308 -128,128 0.084,70.658 57.342,127.916 128,128 70.692,0 128,-57.308 128,-128 0,-70.692 -57.308,-128 -128,-128 z m 0,240 c -61.856,0 -112,-50.144 -112,-112 0.066,-61.828 50.172,-111.934 112,-112 61.856,0 112,50.144 112,112 0,61.856 -50.144,112 -112,112 z"
+   id="path16"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g26"
+         style="fill:#ffffff">
+	<g
+   id="g24"
+   style="fill:#ffffff">
+		<path
+   d="m 240,192 c -53.019,0 -96,42.981 -96,96 0.057,52.996 43.004,95.943 96,96 53.019,0 96,-42.981 96,-96 0,-53.019 -42.981,-96 -96,-96 z m 0,176 c -44.183,0 -80,-35.817 -80,-80 0.049,-44.163 35.837,-79.952 80,-80 44.183,0 80,35.817 80,80 0,44.183 -35.817,80 -80,80 z"
+   id="path22"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g32"
+         style="fill:#ffffff">
+	<g
+   id="g30"
+   style="fill:#ffffff">
+		<path
+   d="m 240,32 c -30.928,0 -56,25.072 -56,56 0.035,30.913 25.087,55.965 56,56 30.928,0 56,-25.072 56,-56 0,-30.928 -25.072,-56 -56,-56 z m 0,96 c -22.091,0 -40,-17.909 -40,-40 0.026,-22.08 17.92,-39.974 40,-40 22.091,0 40,17.909 40,40 0,22.091 -17.909,40 -40,40 z"
+   id="path28"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g38"
+         style="fill:#ffffff">
+	<g
+   id="g36"
+   style="fill:#ffffff">
+		<path
+   d="m 240,64 c -13.255,0 -24,10.745 -24,24 0,13.255 10.745,24 24,24 13.255,0 24,-10.745 24,-24 0,-13.255 -10.745,-24 -24,-24 z m 0,32 c -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 0,4.418 -3.582,8 -8,8 z"
+   id="path34"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g44"
+         style="fill:#ffffff">
+	<g
+   id="g42"
+   style="fill:#ffffff">
+		<rect
+   x="112"
+   y="32"
+   width="16"
+   height="16"
+   id="rect40"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g50"
+         style="fill:#ffffff">
+	<g
+   id="g48"
+   style="fill:#ffffff">
+		<rect
+   x="352"
+   y="32"
+   width="16"
+   height="16"
+   id="rect46"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g56"
+         style="fill:#ffffff">
+	<g
+   id="g54"
+   style="fill:#ffffff">
+		<rect
+   x="112"
+   y="400"
+   width="16"
+   height="16"
+   id="rect52"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g62"
+         style="fill:#ffffff">
+	<g
+   id="g60"
+   style="fill:#ffffff">
+		<rect
+   x="352"
+   y="400"
+   width="16"
+   height="16"
+   id="rect58"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g68"
+         style="fill:#ffffff">
+	<g
+   id="g66"
+   style="fill:#ffffff">
+		<path
+   d="m 240,248 c -22.091,0 -40,17.909 -40,40 0.026,22.08 17.92,39.974 40,40 22.091,0 40,-17.909 40,-40 0,-22.091 -17.909,-40 -40,-40 z m 0,64 c -13.255,0 -24,-10.745 -24,-24 0,-13.255 10.745,-24 24,-24 13.255,0 24,10.745 24,24 0,13.255 -10.745,24 -24,24 z"
+   id="path64"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g74"
+         style="fill:#ffffff">
+	<g
+   id="g72"
+   style="fill:#ffffff">
+		<path
+   d="M 48,280 H 16 c -4.418,0 -8,3.582 -8,8 0,4.418 3.582,8 8,8 h 32 c 4.418,0 8,-3.582 8,-8 0,-4.418 -3.582,-8 -8,-8 z"
+   id="path70"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g80"
+         style="fill:#ffffff">
+	<g
+   id="g78"
+   style="fill:#ffffff">
+		<path
+   d="m 53.656,226.344 -24,-24 c -3.178,-3.069 -8.243,-2.981 -11.312,0.197 -2.994,3.1 -2.994,8.015 0,11.115 l 24,24 c 3.178,3.069 8.243,2.981 11.312,-0.197 2.994,-3.1 2.994,-8.015 0,-11.115 z"
+   id="path76"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g86"
+         style="fill:#ffffff">
+	<g
+   id="g84"
+   style="fill:#ffffff">
+		<path
+   d="m 53.46,338.344 c -3.1,-2.995 -8.016,-2.995 -11.116,0 l -24,24 c -3.178,3.07 -3.266,8.134 -0.196,11.312 3.07,3.178 8.134,3.266 11.312,0.196 0.067,-0.064 0.132,-0.13 0.196,-0.196 l 24,-24 c 3.07,-3.178 2.982,-8.242 -0.196,-11.312 z"
+   id="path82"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g92"
+         style="fill:#ffffff">
+	<g
+   id="g90"
+   style="fill:#ffffff">
+		<path
+   d="m 464,280 h -32 c -4.418,0 -8,3.582 -8,8 0,4.418 3.582,8 8,8 h 32 c 4.418,0 8,-3.582 8,-8 0,-4.418 -3.582,-8 -8,-8 z"
+   id="path88"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g98"
+         style="fill:#ffffff">
+	<g
+   id="g96"
+   style="fill:#ffffff">
+		<path
+   d="m 461.46,202.344 c -3.1,-2.994 -8.015,-2.994 -11.116,0 l -24,24 c -3.124,3.125 -3.123,8.19 0.002,11.314 1.5,1.499 3.534,2.342 5.654,2.342 2.122,0 4.156,-0.844 5.656,-2.344 l 24,-24 c 3.07,-3.178 2.982,-8.242 -0.196,-11.312 z"
+   id="path94"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g104"
+         style="fill:#ffffff">
+	<g
+   id="g102"
+   style="fill:#ffffff">
+		<path
+   d="m 461.656,362.344 -24,-24 c -3.178,-3.07 -8.242,-2.982 -11.312,0.196 -2.995,3.1 -2.995,8.016 0,11.116 l 24,24 c 3.178,3.07 8.242,2.982 11.312,-0.196 2.995,-3.1 2.995,-8.016 0,-11.116 z"
+   id="path100"
+   style="fill:#ffffff" />
+
+	</g>
+
+</g>
+      <g
+         id="g106"
+         style="fill:#ffffff">
+</g>
+      <g
+         id="g108"
+         style="fill:#ffffff">
+</g>
+      <g
+         id="g110"
+         style="fill:#ffffff">
+</g>
+      <g
+         id="g112"
+         style="fill:#ffffff">
+</g>
+      <g
+         id="g114"
+         style="fill:#ffffff">
+</g>
+      <g
+         id="g116"
+         style="fill:#ffffff">
+</g>
+      <g
+         id="g118"
+         style="fill:#ffffff">
+</g>
+      <g
+         id="g120"
+         style="fill:#ffffff">
+</g>
+      <g
+         id="g122"
+         style="fill:#ffffff">
+</g>
+      <g
+         id="g124"
+         style="fill:#ffffff">
+</g>
+      <g
+         id="g126"
+         style="fill:#ffffff">
+</g>
+      <g
+         id="g128"
+         style="fill:#ffffff">
+</g>
+      <g
+         id="g130"
+         style="fill:#ffffff">
+</g>
+      <g
+         id="g132"
+         style="fill:#ffffff">
+</g>
+      <g
+         id="g134"
+         style="fill:#ffffff">
+</g>
+    </g>
+  </g>
+</svg>

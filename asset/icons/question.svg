@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="61.334377mm"
+   height="100mm"
+   viewBox="0 0 61.334377 100"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="question.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1034"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g77"
+       transform="matrix(0.1953125,0,0,0.1953125,-19.332812,0)"
+       style="fill:#ffffff">
+      <g
+         id="g18"
+         style="fill:#ffffff">
+        <g
+           id="g16"
+           style="fill:#ffffff">
+          <g
+             id="g14"
+             style="fill:#ffffff">
+            <circle
+               cx="255.98399"
+               cy="492"
+               r="20"
+               id="circle10"
+               style="fill:#ffffff" />
+            <path
+               d="M 412.979,155.775 C 412.321,69.765 342.147,0 255.984,0 c -86.57,0 -157,70.43 -157,157 0,11.046 8.954,20 20,20 11.046,0 20,-8.954 20,-20 0,-64.514 52.486,-117 117,-117 64.514,0 117,52.486 117,117 0,0.356 0.009,0.71 0.028,1.062 -0.405,46.562 -28.227,88.348 -71.12,106.661 -40.038,17.094 -65.908,56.675 -65.908,100.839 V 412 c 0,11.046 8.954,20 20,20 11.046,0 20,-8.954 20,-20 v -46.438 c 0,-28.117 16.334,-53.258 41.614,-64.051 57.979,-24.754 95.433,-81.479 95.418,-144.516 0,-0.41 -0.013,-0.816 -0.037,-1.22 z"
+               id="path12"
+               style="fill:#ffffff" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g20"
+         style="fill:#ffffff" />
+      <g
+         id="g22"
+         style="fill:#ffffff" />
+      <g
+         id="g24"
+         style="fill:#ffffff" />
+      <g
+         id="g26"
+         style="fill:#ffffff" />
+      <g
+         id="g28"
+         style="fill:#ffffff" />
+      <g
+         id="g30"
+         style="fill:#ffffff" />
+      <g
+         id="g32"
+         style="fill:#ffffff" />
+      <g
+         id="g34"
+         style="fill:#ffffff" />
+      <g
+         id="g36"
+         style="fill:#ffffff" />
+      <g
+         id="g38"
+         style="fill:#ffffff" />
+      <g
+         id="g40"
+         style="fill:#ffffff" />
+      <g
+         id="g42"
+         style="fill:#ffffff" />
+      <g
+         id="g44"
+         style="fill:#ffffff" />
+      <g
+         id="g46"
+         style="fill:#ffffff" />
+      <g
+         id="g48"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>
